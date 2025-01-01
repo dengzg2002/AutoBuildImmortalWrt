@@ -24,7 +24,6 @@ PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES luci-app-alist_24.362.20051~34c1f40_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-alist-zh-cn_24.362.20051~34c1f40_all.ipk"
 PACKAGES="$PACKAGES luci-app-ddns_24.362.20051~34c1f40_all.ipk"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn_24.362.20051~34c1f40_all.ipk"
 
